@@ -1,0 +1,24 @@
+a.)  Explain in your own words the term "single-threaded".
+
+    * Single threaded - A signle task execution of any programs that are we usally used. It has the accuracy of execution to load or
+the loading of a data.
+
+
+b.) In your own words, what is "event driven architecture"?
+  
+    * Event driven architecture - A programming paradigm in which the flow of a program is determine by event such as user actions.
+Sensor outputs or message from other programs. It is generally a graphical user interfaces and other applications that are centered
+on performing certain actions in response to user input.
+
+c.) What are the benefits of a javascript module?
+
+    * The benefits of a Javascript module it is accurate to the users and well organized codes. It is a friendly program that are design
+      to easily adopt by users.
+
+d.) Give two implementations of javascript module?
+    * my functions
+    *
+    
+e.)In you own words, what is a module bundler.
+    *  In order to organize to reused a codes or a javascript that are created thats why module bundler is a one way of using it
+       to optomized a files.
